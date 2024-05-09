@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Vendo o Chat Geral", "Jogando Roblox", "Ouvindo Pão Batista", "Ouvindo pancake999999", "🤓", "🤡", "🎪", "Assistindo Alguma coisa..."];
+const statusMessages = ["🤡", "🤡.", "🤡..", "🤡..."];
 
 
 let currentIndex = 0;
